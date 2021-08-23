@@ -282,8 +282,8 @@ input {
 
     #cta {
         div#wrapper {
-            // width: 480px;
-            height: 200px;
+            max-width: 480px;
+            // height: 400px;
             padding: 1rem;
             background: $gradient, url('../assets/images/cta.jpg');
             background-size: cover;

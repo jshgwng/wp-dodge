@@ -221,7 +221,7 @@ nav div#links a:hover {
 }
 
 #cta div#wrapper {
-  height: 200px;
+  max-width: 480px;
   padding: 1rem;
   background: linear-gradient(rgba(0, 0, 255, 0.2), rgba(0, 0, 255, 0.5)), url("../assets/images/cta.jpg");
   background-size: cover;
